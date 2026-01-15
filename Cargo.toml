@@ -53,7 +53,7 @@ alloy-rpc-client = "1.0.38"
 tiny_http = "0.12"
 
 [patch.crates-io]
-revm = { git = "https://github.com/bluealloy/revm", rev = "a31fa98efe2208af326cf70f59d374165e0df363" }
+revm = { git = "https://github.com/haythemsellami/revm", branch = "main" }
 # alloy-provider = { git = "https://github.com/alloy-rs/alloy", rev = "a4e7099" }
 # alloy-rpc-types = { git = "https://github.com/alloy-rs/alloy", rev = "a4e7099" }
 # alloy-consensus = { git = "https://github.com/alloy-rs/alloy", rev = "a4e7099" }
